@@ -1,0 +1,17 @@
+{
+    "id": "chatcmpl-7Sn3EcToBcm1siCg8ow7xpdBXYgG3",
+    "object": "chat.completion",
+    "created": 1687096092,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": { "prompt_tokens": 11, "completion_tokens": 114, "total_tokens": 125 },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Java is a high-level, object-oriented programming language originally developed by Sun Microsystems and now owned by Oracle Corporation. It is designed to be fast, portable, and secure, and can be used to develop a wide range of applications, including desktop applications, mobile apps, web applications, and enterprise software. Java code is compiled into bytecode, which can be run on any platform with a Java Virtual Machine (JVM), making it highly portable. Java is widely used for both client-side and server-side development, and is one of the most popular programming languages in use today."
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
